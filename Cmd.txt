@@ -1,0 +1,15 @@
+FILE DIRECTORY COMMANDS
+cd folder_name = Changes from one folder to another.
+dir = Shows a list of the files and folders in the current directory
+dir/a = Shows a list of the files and folders in the current directory
+        together with hidden files.
+mkdir folder_name= Create a new folder in the current directory.
+rmdir folder_name= Delete/remove empty folders.
+rmdir /s folder_name = Delete a folder with its contents.
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+FILE DIRECTORY COMMANDS
+
+pwd = Shows the current directory that you are located in.
+cd folder_name = Change from one folder into another
+ls = Shows a list of all folders in the current directory
+mkdir folder_name= Create a folder in the current directory
+rmdir folder_name= Delete a folder with its contents.
+cp = Used to copy files into another folder.
+mv = Used to rename files and  folders
+
+
+Note:
+All these commands can also be applied in Ubuntu operating system  and they can function well
