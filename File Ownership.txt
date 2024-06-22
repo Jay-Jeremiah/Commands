@@ -1,0 +1,11 @@
+File Ownership
+There are two types of owners of a directory
+    user & group
+
+To change the file ownership we use:
+    chown & chgrp
+        chown - changes ownership of a file
+        chgrp - changes the group ownership of a file
+
+Using the command ls -ltr, we can know the owners of the different files
+
