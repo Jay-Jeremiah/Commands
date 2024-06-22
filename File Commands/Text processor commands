@@ -1,0 +1,18 @@
+wc - reads standard input and generates newline count, word count and byte count
+
+wc -l file 
+    print the line counts
+
+wc -c file
+    print the byte counts
+
+wc -w file 
+    prints the word counts
+
+ls -l | wc -l
+    prints the number of folders in the directory
+
+grep keyword | wc -l
+    prints number of instances the keyword appears in the documents
+    for instance *grep prints | wc -l*
+    lists the number of instances the word prints appears in the file
