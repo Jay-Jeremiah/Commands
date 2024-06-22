@@ -2,3 +2,5 @@ There are 3 types of help commands
     whatis command
     command --help
     man command
+
+All these three help in identifying what a command is able to do
