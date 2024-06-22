@@ -1,0 +1,16 @@
+FILE DISPLAY COMMANDS
+These are commands used to display the contents of a file.
+They include:
+    cat 
+    more
+    less
+    head
+    tail
+
+cat - allows a user to display all contents of a file at once
+more - allows a user to display contents of a file one page at a time while 
+       pressing the space bar to view the next page
+less - it performs the same task as more command but a user views one line at 
+       at a time while pressing j for the next line and k for the previous line. 
+head - allows a user to display the top lines of documents
+tail - allows a user to view last lines of documents
