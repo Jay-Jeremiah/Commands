@@ -1,0 +1,16 @@
+Incase we want to search for the different keywords in our files, we use the GREP and EGREP commands.
+
+Grep - stands for "global regular expression print"
+    This processes text line by line and prints a line that matches a specified pattern
+
+SYNTAX:
+    grep keyword filename - searches for the keyword in the filename.
+    grep -c keyword filename - searches for the keyword and counts its occurences
+    grep -i keyword filename - searches for the keyword irrepective of the case
+
+awk - designed for data extraction.
+
+Syntax:
+    awk '{print $1}' file - list 1st field from the file
+    awk '{print $1,$3}' file   - list 1st and 3rd field from file
+    ls -l | awk '{print $1,$3}' list 1st and 3rd field from ls -l output
