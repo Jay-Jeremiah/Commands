@@ -15,4 +15,13 @@ Syntax:
     awk '{print $1,$3}' file - list 1st and 3rd field from file
     ls -l | awk '{print $1,$3}' - list 1st and 3rd field from ls -l output
     ls -l | awk '{print SNF}' - last field of output. 
+
+
+cut - Used to cut specific parts of lines in files and print them in standard output
+
+Syntax:
+    cut -c1 file - list the first character from each line in the file
+    cut -c1,2,3 file - list the 1st,2nd,3rd characters from each line in file
+    cut -c1-3 file - list the range of characters from each line in file
+    cut -b1-3 file - list the 1st -3rd bytes from each line in file
     
