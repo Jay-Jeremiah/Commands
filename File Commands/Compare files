@@ -1,0 +1,10 @@
+COMPARE FILES
+
+To compare files in linux, we use mainly 2 commands i.e
+    diff(line by line)
+    cmp(byte by byte)
+
+Syntax:
+    diff file1 file2 - compares both files and prints the difference
+
+    cmp file1 file2 - indicates where there is a difference in the file
