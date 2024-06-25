@@ -1,0 +1,11 @@
+Commands                    Windows              Linux   
+Listing a directory         dir                  ls -l
+Rename a file               ren                  mv
+Copy file                   copy                  cp
+move file                   move                  mv
+clear screen                 cls                   clear
+compare contents             fc                    diff
+search keyword               find                   grep
+display command help         command /?             man command
+display your location        chdir                 pwd
+display the time             time                  date
