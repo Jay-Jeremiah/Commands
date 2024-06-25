@@ -1,0 +1,8 @@
+To combine files, we can use the cat command
+
+    cat file1 file2 > file3 - combines files 1 and 2, prints them in file3 to make one document
+
+To split the files, we use the split command
+
+    split -l 2 file1 Separate - splits file1 and prints every 2 lines in a new file with a Separate label
+    
