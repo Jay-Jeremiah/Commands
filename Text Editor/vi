@@ -1,0 +1,31 @@
+Vi - one of the text editors used on the linux machines
+
+Text Editor - program that allows you to create and manipulate data in a file
+
+There are two modes in vi i.e command mode and insert mode.
+
+Command mode - Here, one cannot insert data but run the common keys in vi and navigate through data
+
+Insert mode - Here, one can insert data but cannot easily navigate through it.
+
+
+Common key in vi 
+i - insert mode
+Esc - escape out of any mode 
+r - replace
+d - delete
+:q! - quit without saving
+:wq! -quit and save
+
+
+While in the command mode, the following letters should be noted:
+ i - enter into insert mode
+ d - delete characters in a line
+ r - replace characters
+ o - insert a newline
+ x - delete characters one at a time
+ u - undo
+ /keyword - searches for the keyword and highlights it
+
+
+Note that we can also use the grep command on such a document
