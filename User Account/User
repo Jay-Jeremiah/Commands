@@ -1,0 +1,9 @@
+User Account Mananagement
+
+These commands enable us to create user accounts and manage them
+
+useradd - adds a new user account to the computer.
+groupadd - adds a new group to the computer.
+userdel - deletes a user account from the computer.
+usermod - modifies the specifics of a user account. 
+groupdel - deletes a group from the computer
