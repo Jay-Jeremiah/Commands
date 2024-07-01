@@ -7,3 +7,6 @@ groupadd - adds a new group to the computer.
 userdel - deletes a user account from the computer.
 usermod - modifies the specifics of a user account. 
 groupdel - deletes a group from the computer
+
+Switch users and Sudo Access
+su - username - enables one to access root of the mentioned user account.
