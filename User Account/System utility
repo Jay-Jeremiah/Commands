@@ -1,0 +1,14 @@
+date - shows date and time via the terminal
+
+uptime - tells how long the computer has been running.
+       - shows how many users are on the computer
+
+hostname - name of the linux machine
+
+uname - shows the type of kernel on the system
+
+which - locates a command 
+
+cal - displays the calendar of the month in question
+
+bc - 
