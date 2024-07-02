@@ -1,0 +1,11 @@
+Process Commands
+systemctl
+
+ps - see processes on your linux system
+
+top - all processes running on the system basing on the load
+
+kill - enables one to kill a process
+
+crontab - used to schedule processes in your system
+
