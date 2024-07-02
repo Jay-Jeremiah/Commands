@@ -1,0 +1,19 @@
+top - shows a summary of the processes with associated commands.
+
+df - reports file system storage usage.
+
+dmesg - shows all messages about the kernel operations
+ 
+
+iostat(input & output statistics) -shows CPU, input and output statistics for devices and partitions.
+
+netstat - shows network connections
+
+free - shows disk partition usage and indicates the free space.
+
+
+cat /proc/cpuinfo - shows the information about the cpu 
+
+cat /proc/meminfo- shows information of memory capacity.
+
+
