@@ -1,0 +1,20 @@
+PROCESS MANAGEMENT
+    We talk about how to run,store processes. Bring processes to the foreground and put them in the background
+
+Background
+    Ctrl+Z ,jobs and bg
+
+Foreground
+    fg
+
+Run process even after exit
+    nohup process &
+
+kill a process by name
+    pkill 
+
+Priority process
+    nice  (nice -n 5 process)
+
+list processes
+    ps
