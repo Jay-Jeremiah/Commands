@@ -1,0 +1,23 @@
+Linux Boot Loaders
+These start the operating system. There are mainy two linux boot loaders namely:
+    LILO - Linux loader
+    GRUB - Grand Unified loader
+
+initrd - Initial RAM disk
+    Temporary file system that is loaded into memory once the operating system starts.
+    It is stored in the /boot folder in the root.
+
+Linux kernel is named is vmlinux or vmlinuz.
+
+When a linux machine starts, a lot of messages are made by the kernel
+To view these messages, we can use the dmesg command
+
+Crucial commands 
+
+shutdown - this shuts down the system
+
+poweroff - this powers off the linux system
+
+reboot - this restarts the linux system.
+
+
