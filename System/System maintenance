@@ -1,0 +1,8 @@
+shutdown - schedules the system to shut down in the next minute.
+
+init 0-6 - 0 means shutdown
+         - 6 means reboot
+
+reboot - restarts the computer
+
+halt - shuts down the computer.
