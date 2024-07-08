@@ -1,3 +1,5 @@
 uname - shows information about kernel.
 
 dmdecode - prints DMI tables(DMI - Desktop Management Interface)
+
+arch - shows the architecture of the system 
