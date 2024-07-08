@@ -1,0 +1,15 @@
+Changing the hostname 
+On the linux system, there is a file that holds the hostname 
+called hostname which can be accessed using 'cat /etc/hostname' command.
+
+We can just use a texteditor in the following ways:
+    vi /etc/hostname
+    press i to enter the insert mode
+    edit the hostname and press the 'Esc' key
+    save the work using ':wq!'
+    Then reboot the linux machine.
+
+Or we can use the command
+    hostnamectl set-hostname newhostnme
+    reboot
+    
