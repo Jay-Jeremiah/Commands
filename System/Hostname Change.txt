@@ -1,4 +1,5 @@
 Changing the hostname 
+To know the hostname of the linux system, we use the 'hostname' command
 On the linux system, there is a file that holds the hostname 
 called hostname which can be accessed using 'cat /etc/hostname' command.
 
@@ -12,4 +13,3 @@ We can just use a texteditor in the following ways:
 Or we can use the command
     hostnamectl set-hostname newhostnme
     reboot
-    
