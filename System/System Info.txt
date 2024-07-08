@@ -1,0 +1,3 @@
+uname - shows information about kernel.
+
+dmdecode - prints DMI tables(DMI - Desktop Management Interface)
