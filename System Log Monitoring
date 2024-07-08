@@ -1,0 +1,5 @@
+boot - shows all the boot files and status of the services on the system during the boot.
+    - All these are shown in the boot.log file in /var/log.
+    -At every reboot, the boot.log file is overwritten. 
+
+cron - used to execute scheduled commands.
