@@ -10,3 +10,9 @@ groupdel - deletes a group from the computer
 
 Switch users and Sudo Access
 su - username - enables one to access root of the mentioned user account.
+
+There is another to add a user to the linux system. We can use the following commands:
+
+	adduser username - Add a user to the system
+	usermod -a -G groupname username - Assigns a group to the user
+	
