@@ -11,8 +11,21 @@ groupdel - deletes a group from the computer
 Switch users and Sudo Access
 su - username - enables one to access root of the mentioned user account.
 
-There is another to add a user to the linux system. We can use the following commands:
+There is another way to add a user to the linux system. We can use the following commands:
 
 	adduser username - Add a user to the system
-	usermod -a -G groupname username - Assigns a group to the user
+	usermod -a -G sudo username - Assign the user to the sudo group
+	chsh -s /bin/bash username  - Assigns a shell to the user
+
+In Linux , we can perform the follwing on other users on the machine:
+-Access,format files 
+-make and delete directories 
+-make downloads of packages using the terminal
+
+All the above in the terminal, all wee need to do is use the command
 	
+	su - username
+
+This command will prompt you for the password of the other user.
+After inputing the password, you will access to the terminal of the other user.
+
