@@ -1,4 +1,6 @@
-FILE DIRECTORY COMMANDS
+Basic COMMANDS
+pwd(print working directory) - shows the file path of the location you are in
+
 cd folder_name = Changes from one folder to another.
 dir = Shows a list of the files and folders in the current directory
 dir/a = Shows a list of the files and folders in the current directory
@@ -6,6 +8,16 @@ dir/a = Shows a list of the files and folders in the current directory
 mkdir folder_name= Create a new folder in the current directory.
 rmdir folder_name= Delete/remove empty folders.
 rmdir /s folder_name = Delete a folder with its contents.
+
+
+Listing contents in a directory
+ls - shows a list of contents in the folder
+ls D* - shows the contents in each folder starting with letter D 
+ls -l - shows the list of contents in a folder but with more details
+ls -a - shows a list of the contents in a folder including the hidden files
+
+
+
 
 
 Terminal Commands 
