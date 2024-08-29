@@ -2,6 +2,9 @@ Basic COMMANDS
 pwd(print working directory) - shows the file path of the location you are in
 
 cd folder_name = Changes from one folder to another.
+cd - = Changes to the previous working folder
+cd .. = Changes to the previous folder in the file path
+cd ../.. = Changes to the second last folder in the file path
 dir = Shows a list of the files and folders in the current directory
 dir/a = Shows a list of the files and folders in the current directory
         together with hidden files.
@@ -11,10 +14,10 @@ rmdir /s folder_name = Delete a folder with its contents.
 
 
 Listing contents in a directory
-ls - shows a list of contents in the folder
-ls D* - shows the contents in each folder starting with letter D 
-ls -l - shows the list of contents in a folder but with more details
-ls -a - shows a list of the contents in a folder including the hidden files
+ls =shows a list of contents in the folder
+ls D* = shows the contents in each folder starting with letter D 
+ls -l = shows the list of contents in a folder but with more details
+ls -a = shows a list of the contents in a folder including the hidden files
 
 
 
